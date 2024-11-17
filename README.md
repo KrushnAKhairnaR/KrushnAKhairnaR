@@ -12,7 +12,7 @@
 -📊 Focused on Data Structures & algorithms - Java<br>
 
 <h4>-📫 How to Reach Me<br></h4>
--📧 Email: krushna.khairnar11work@gmail.com<br>
+-📧 Email: <a href="mailto:krushna.khairnar11work@gmail.com">krushna.khairnar11work@gmail.com</a> <br>
 -💼 LinkedIn: https://www.linkedin.com/in/krushnakhairnar/ <br>
 -🌐 Portfolio: https://official-portfolio-git-main-krushnakhairnars-projects.vercel.app/ <br>
 

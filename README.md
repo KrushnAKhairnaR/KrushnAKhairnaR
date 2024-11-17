@@ -1,7 +1,7 @@
 <h2>-👋 Hi, I’m Krushna Khairnar <br></h2>
 <h3>-🌟 Welcome to my GitHub profile!<br></h3> 
 
--👀 About Me <br>
+<h4>-👀 About Me <br></h4>
 -💻 I’m an AIML Engineer with a passion for leveraging technology to solve real-world problems. <br>
 -🌱 I’m currently exploring Blockchain Technology and its applications in secure systems like e-voting. <br>
 -🤝 I’m open to collaborations on projects involving software development, web development.<br>

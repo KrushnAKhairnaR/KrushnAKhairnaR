@@ -3,7 +3,7 @@
 
 <h4>-👀 About Me <br></h4>
 -💻 I’m an AIML Engineer with a passion for leveraging technology to solve real-world problems. <br>
--🌱 I’m currently exploring Blockchain Technology and its applications in secure systems like e-voting. <br>
+-🌱 I’m currently looking for an Software Development or Web Development Jobs to use my technical knowledg <br> & gain more knowledge . <br>
 -🤝 I’m open to collaborations on projects involving software development, web development.<br>
 -🌍 I believe in the power of open source and enjoy contributing to the developer community.<br>
 

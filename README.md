@@ -8,11 +8,11 @@
 -🌍 I believe in the power of open source and enjoy contributing to the developer community.<br>
 
 <h4>-💞️ What I’m Working On<br> </h4>
--🔍 Final-Year Project: Building a secure e-voting system using blockchain technology.<br>
+-🔍 Money Ordering Project: Building a secure money ordering system using HTML, CSS, JS, Node and Express technologies.<br>
 -📊 Focused on Data Structures & algorithms - Java<br>
 
 <h4>-📫 How to Reach Me<br></h4>
--📧 Email: <a href="mailto:krushna.khairnar11work@gmail.com">krushna.khairnar11work@gmail.com</a> <br>
+-📧 Email: <a href="mailto:krushna.khairnar@outlook.com">krushna.khairnar@outlook.com</a> <br>
 -💼 LinkedIn: https://www.linkedin.com/in/krushnakhairnar/ <br>
 -🌐 Portfolio: https://official-portfolio-git-main-krushnakhairnars-projects.vercel.app/ <br>
 

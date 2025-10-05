@@ -13,7 +13,7 @@
 
 <h4>-📫 How to Reach Me<br></h4>
 -📧 Email: <a href="mailto:krushnakhairnar72@gmail.com">krushnakhairnar72@gmail.com</a> <br>
--💼 LinkedIn: https://www.linkedin.com/in/krushnakhairnar/ <br>
+-💼 LinkedIn: https://www.linkedin.com/in/devkrushna369/<br>
 -🌐 Portfolio: https://official-portfolio-git-main-krushnakhairnars-projects.vercel.app/ <br>
 
 <h4>-😄 Pronouns <br></h4>
